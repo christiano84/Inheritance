@@ -1,0 +1,1 @@
+Today I learned about inheritance for classes (not a new topic to me but what was new to me was the way Javascript implemented it by using the extends keyword.) To view the code demonstrating its potential usage please check my github pages and use the web developer tools in your browser to see the console log.
